@@ -1,6 +1,8 @@
 # Carolina Pulido - Frontend Developer:
 
-Hello 👋 ! I'm Carolina Pulido.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lemon&size=30&pause=1000&color=7304F7&center=true&vCenter=true&random=false&width=900&height=70&lines=Hello+%F0%9F%91%8B+!+I'm+Carolina+Pulido+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+have+projects+with+Vanilla+Javascript+...;ChartJs%2C+Firebase%2C+NodeJs+and+Angular;I'm+still+learning+Ngrx%2C+Python+and+Sql;Go+to+my+Portfolio!+Go+ahead+%F0%9F%91%87!+)](https://git.io/typing-svg)
+
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lemon&size=30&pause=1000&color=7304F7&center=true&vCenter=true&random=false&width=900&height=70&lines=Hello+%F0%9F%91%8B+!+I'm+Carolina+Pulido+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+have+projects+with+Vanilla+Javascript+...;ChartJs%2C+Firebase%2C+NodeJs+and+Angular;I'm+still+learning+Ngrx%2C+Python+and+Sql;Go+to+my+Portfolio!+Go+ahead+%F0%9F%91%87!+" alt="Typing SVG" /></a> -->
 
 ## 💫 About Me:
 As a potential software developer, I am committed to continuous professional growth and project success. I have honed my skills in HTML, CSS, JavaScript, NodeJs, Firebase and Angular through a curiosity-led learning approach. My adept use of the SCRUM methodology is complemented by my experience as a patient mentor for children, showcasing effective collaboration and listening skills. I thrive on solving problems and challenges, as they provide opportunities to discover innovative solutions. I am a perpetual learner, always eager to explore new ways of doing things. Nowadays, I'm self-learning Python and Angular with Ngrx.
