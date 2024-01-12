@@ -1,9 +1,15 @@
 # Carolina Pulido - Frontend Developer:
 
-Hello 👋 ! I'm Carolina Pulido, a passionate front-end web developer with a love for creating stunning and user-friendly web experiences. With a focus on crafting engaging and functional user interfaces, I am committed to bringing ideas to life through code.
+Hello 👋 ! I'm Carolina Pulido.
 
 ## 💫 About Me:
-🔭 I’m currently working on Laboratoria as Front-end developer<br><!--👯 I’m looking to collaborate on n <br>🤝 I’m looking for help with<br>-->🌱 I’m currently learning **Angular** and **NodeJs.** *React soon!!!*<br><!-- 💬 Ask me about<br>⚡ Fun fact -->
+As a potential software developer, I am committed to continuous professional growth and project success. I have honed my skills in HTML, CSS, JavaScript, NodeJs, Firebase and Angular through a curiosity-led learning approach. My adept use of the SCRUM methodology is complemented by my experience as a patient mentor for children, showcasing effective collaboration and listening skills. I thrive on solving problems and challenges, as they provide opportunities to discover innovative solutions. I am a perpetual learner, always eager to explore new ways of doing things. Nowadays, I'm self-learning Python and Angular with Ngrx.
+
+<!--🔭 I’m currently working on Laboratoria as Front-end developer<br> -->
+<!--👯 I’m looking to collaborate on n <br>-->
+<!--🤝 I’m looking for help with<br>-->
+<!--🌱 I’m currently learning **Angular** and **NodeJs.** *React soon!!!*<br>-->
+<!-- 💬 Ask me about<br>⚡ Fun fact -->
 
 <!-- ## Technical Skills
 
@@ -47,14 +53,14 @@ Hello 👋 ! I'm Carolina Pulido, a passionate front-end web developer with a lo
 
 **I'm excited to continue developing innovative web experiences and learning new technologies! I'm always open to collaborating on interesting projects, so feel free to get in touch. 🙌**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karolans25&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karolans25&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karolans25&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--# 📊 GitHub Stats:-->
+<!--![](https://github-readme-stats.vercel.app/api?username=karolans25&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=karolans25&theme=yeblu&hide_border=false)<br/>-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=karolans25&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies-->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=karolans25&theme=algolia&no-frame=false&no-bg=true&margin-w=4) -->
-![](https://github-profile-trophy.vercel.app/?username=karolans25&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=karolans25&theme=algolia&no-frame=false&no-bg=false&margin-w=4)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karolans25&icon=2&color=0)](https://visitcount.itsvg.in)
