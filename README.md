@@ -1,4 +1,4 @@
-# Carolina Pulido - Frontend Developer:
+# Carolina Pulido - Web Developer:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lemon&size=30&pause=1000&color=7304F7&center=true&vCenter=true&random=false&width=900&height=70&lines=Hello+%F0%9F%91%8B+!+I'm+Carolina+Pulido+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+have+projects+with+Vanilla+Javascript+...;ChartJs%2C+Firebase%2C+NodeJs+and+Angular;I'm+still+learning+Ngrx%2C+Python+and+Sql;Go+to+my+Portfolio!+Go+ahead+%F0%9F%91%87!+)](https://git.io/typing-svg)
 
